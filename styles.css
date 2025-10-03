@@ -35,3 +35,10 @@ ul{
     background-color: aqua;
 
 }
+/* Mobiili näkymään asettelut */
+@media (max-width: 500px) {
+
+    ul{
+        color: salmon;
+    }
+}

@@ -1,2 +1,2 @@
 # portfoliocard
-Portfolion harjoittelua
+Portfolion harjoittelua. Tämä oli tylsää harjoittelua.
