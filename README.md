@@ -1,0 +1,2 @@
+# portfoliocard
+Portfolion harjoittelua
